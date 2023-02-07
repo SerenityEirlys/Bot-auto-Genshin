@@ -32,6 +32,7 @@
 - autoquest
 - autodaily
 - autolahoan
+- autothandong
 - webhooklog check
 
 <h1 align="center">Contributing</h1>
