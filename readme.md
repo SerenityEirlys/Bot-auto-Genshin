@@ -23,7 +23,7 @@
 - autolahoan ( free users cannot use this command )
 - webhooklog check
 
-#### Paiuser Command
+#### Paiduser Command
 
 - paiduserhelp
 - worldclear 
