@@ -11,16 +11,17 @@
 - help
 - all command music. ( play, resume, skip, pause, stop, join, volume...)
 - redeem ( this redeem key get free user key change everytime 1 days limited auto genshin)
-- redeempaid ( this key buy 1d-3d-7d-30d no limited auto genshin)
+- redeempaid ( this key buy 1d-3d-7d-30d no limit auto genshin)
 
 #### Freeuser Command
 
 - freeuserhelp
-- worldclear ( limited world )
-- farmitem ( limited )
-- autoquest ( limited 3 quest 1d)
-- autodaily ( limited 1 account )
+- worldclear ( limit world )
+- farmitem ( limit )
+- autoquest ( limit 3 quest 1d)
+- autodaily ( limit 1 account )
 - autolahoan ( free users cannot use this command )
+- autothandong ( limit ) 
 - webhooklog check
 
 #### Paiduser Command
